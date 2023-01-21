@@ -1,9 +1,6 @@
+[![MasterHead](https://camo.githubusercontent.com/0850a9b90bf720b08cafe764aea52d8cf2cc7048d4f8080297e8988b76bb08b8/68747470733a2f2f7265732e636c6f7564696e6172792e636f6d2f7375706572666f6c696f2f696d6167652f75706c6f61642f76313632303638393937392f36383734373437303733336132663266363932653730363936653639366436373265363336663664326636663732363936373639366536313663373332663633333632663333333332663633333232663633333633333333363333323330363536343635333833323636333036353330363336353634333736343335333733303634363236353333363133313636333332653637363936365f796a756832732e676966)](https://www.linkedin.com/in/debarghya-mondal98/)
 <h1 align="center">Hi 👋, I'm Debarghya Mondal</h1>
-<h3 align="center">Working Experience in Frontend Developer adept in all stages of advanced web development. Knowledgeable in Backend development. Bringing forth expertise in design, develop, testing and maintenance of website. Equipped with a diverse and promising skill‐set. Proficient in an assortment of technologies, including Angular, JavaScript, HTML, CSS, Sass, Git, Jira and Figma. Strong professional with a Bachelor of Engineering focused on Computer Science. Able to effectively self‐manage during independent projects, as well as collaborate in a team setting.</h3>
-
-- 🌱 I’m currently learning **Node, Express and Mongo**
-
-- 💬 Ask me about **Angular and Javascript**
+<h3 align="center">About Me ? Okay so I'm having working experience in Frontend Developer adept in all stages of advanced web development. Knowledgeable in Backend development. Bringing forth expertise in design, develop, testing and maintenance of website. Equipped with a diverse and promising skill‐set. Proficient in an assortment of technologies, including Angular, JavaScript, HTML, CSS, Sass, Git, Jira and Figma. Strong professional with a Bachelor of Engineering focused on Computer Science. Able to effectively self‐manage during independent projects, as well as collaborate in a team setting.</h3>
 
 - 📫 How to reach me **debarghya.workplace@gmail.com**
 
